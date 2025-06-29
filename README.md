@@ -2,9 +2,9 @@
 
 [中文](README_CN.md)
 
-Welcome to wechat tools. If you like this project, feel free to visit our project repository（ https://github.com/YuxuanBai1/wechat-tools ）Clicking on a Star on the page indicates support for developers~~(daily business)~~
+Welcome to wechat tools. If you like this project, feel free to visit our project repository（ https://github.com/YuxuanBai1/wechat-tools ）Clicking on a Star on the page indicates support for developers ~~(daily business)~~
 
-###Before using this item, please first understand the~~shortcomings~~features of this project:
+###Before using this item, please first understand the ~~shortcomings~~ features of this project:
 
 1. This project does not support automatic search for the user's WeChat location path;
 
@@ -12,7 +12,7 @@ Welcome to wechat tools. If you like this project, feel free to visit our projec
 
 ###Declaration feature:
 
-The first point is that the functionality is too advanced, and I really can't do it (if you know this feature, you can submit Issues and attach code, but please be careful not to submit a large number of meaningless/repetitive Issues)~~(also known as technical debt)~~
+The first point is that the functionality is too advanced, and I really can't do it (if you know this feature, you can submit Issues and attach code, but please be careful not to submit a large number of meaningless/repetitive Issues) ~~(also known as technical debt)~~
 
 After reading the implementation principle, you will understand what is going on
 
