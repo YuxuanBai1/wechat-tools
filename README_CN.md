@@ -1,4 +1,7 @@
 ## wechat-tools
+
+[English](README.md)
+
 欢迎使用wechat-tools，如果您喜欢本项目不妨在[本项目仓库](https://github.com/YuxuanBai1/wechat-tools)页点个Star表示对开发者的支持 ~~（日常营业）~~
 
 ### 使用本项目前，请您先了解本项目的 ~~不足~~ 特性：
