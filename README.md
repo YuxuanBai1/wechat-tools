@@ -1,4 +1,4 @@
-## wechat-tools
+## Wechat-tools
 
 [中文](README_CN.md)
 
