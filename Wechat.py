@@ -246,7 +246,7 @@ def CreateWxNote(NoteContent):
     pyautogui.click()
     print('已创建内容为'+NoteContent+'的笔记')
 
-def OpenWxCircleOfFriends():
+def OpenWxMoments():
     FindWindow('微信')
     time.sleep(1)
     # 绑定微信主窗口
@@ -267,7 +267,7 @@ def OpenWxVideoId(Videoid):
     pyautogui.press('enter')
     print('已打开'+Videoid+'的视频号')
 
-def OpenWxGlance():
+def OpenWxTakeALook():
     FindWindow('微信')
     time.sleep(1)
     # 绑定微信主窗口
